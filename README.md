@@ -9,6 +9,7 @@
 - 🌱 I continue to improve myself in  web, by reading and researching.
 - 🤝 I am prone to teamwork.
 - 📫 How to reach me **seldaevren035@gmail.com**
+- You can also reach me via LinkedIn by clicking the link below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

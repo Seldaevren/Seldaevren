@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selda Evren</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<img align="right" height="300" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" height="300" width="400"  src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e474vj0luyd7blopqlzpqc1fwuoyy6avrq81n5o1xs8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seldaevren&label=Profile%20views&color=0e75b6&style=flat" alt="seldaevren" /> </p>
 
 - I'm a developer who builds **website with HTML,CSS,JavaScript and REACT.**
